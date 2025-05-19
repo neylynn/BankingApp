@@ -1,0 +1,14 @@
+C:\Projects\BankingApp\bin\Debug\net9.0\BankingApp.exe
+C:\Projects\BankingApp\bin\Debug\net9.0\BankingApp.deps.json
+C:\Projects\BankingApp\bin\Debug\net9.0\BankingApp.runtimeconfig.json
+C:\Projects\BankingApp\bin\Debug\net9.0\BankingApp.dll
+C:\Projects\BankingApp\bin\Debug\net9.0\BankingApp.pdb
+C:\Projects\BankingApp\obj\Debug\net9.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BankingApp\obj\Debug\net9.0\BankingApp.AssemblyInfoInputs.cache
+C:\Projects\BankingApp\obj\Debug\net9.0\BankingApp.AssemblyInfo.cs
+C:\Projects\BankingApp\obj\Debug\net9.0\BankingApp.csproj.CoreCompileInputs.cache
+C:\Projects\BankingApp\obj\Debug\net9.0\BankingApp.dll
+C:\Projects\BankingApp\obj\Debug\net9.0\refint\BankingApp.dll
+C:\Projects\BankingApp\obj\Debug\net9.0\BankingApp.pdb
+C:\Projects\BankingApp\obj\Debug\net9.0\BankingApp.genruntimeconfig.cache
+C:\Projects\BankingApp\obj\Debug\net9.0\ref\BankingApp.dll
