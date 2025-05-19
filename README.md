@@ -1,18 +1,13 @@
-﻿# OldPhonePadApp
+﻿# BankingApp
 
-[![.NET Build and Test](https://github.com/neylynn/OldPhonePadApp/actions/workflows/dotnet.yml/badge.svg)](https://github.com/neylynn/OldPhonePadApp/actions)
-
-A C# console app simulating an old mobile phone keypad.
-
-## Structure
-- `Program.cs` : Console UI
-- `OldPhonePadService.cs` : Business logic (key decoding)
-- `OldPhonePadApp.Tests` : xUnit tests
+Mini Banking System (Console App)
 
 ## Features
-- from Old Phone Pad's key input to desire result for text messaging
-- can test app in local 
-- using github's test automation feature after push 
+- Menu-based interaction
+- Create account (user input)
+- Deposit/Withdraw/Check balance by account number
+- Transaction history (in-memory)
+- Basic interest calculation (for savings accounts)
 
 ## Technologies
 - .NET (specify version: .NET 8.0)
@@ -20,19 +15,17 @@ A C# console app simulating an old mobile phone keypad.
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/neylynn/OldPhonePadApp.git
+git clone https://github.com/neylynn/BankingApp.git
 
 # Change into the directory
-cd OldPhonePadApp
+cd BankingApp
 
 # Build the project
 dotnet build
 
-# Run the app [go to /OldPhonePadApp]
+# Run the app 
 dotnet run
 
-# Test the app [go to /OldPhonePadApp.Tests]
-dotnet test
 
 
 
